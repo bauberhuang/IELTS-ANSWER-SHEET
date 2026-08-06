@@ -1,0 +1,6 @@
+14-20
+III VIII VI V VII I II
+21-23
+A A A
+24-26
+speed 50 strict
