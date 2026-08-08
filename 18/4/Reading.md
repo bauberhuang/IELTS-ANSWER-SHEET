@@ -1,9 +1,9 @@
 1-5
-D C B E D
+D C B E A
 6-9
 energy food gardening obesity
 10-11
-A C
+E C
 12-13
 D E
 14-16
