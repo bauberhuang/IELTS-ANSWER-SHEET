@@ -9,3 +9,12 @@ Coppor's persentage stayed the most stable throughout 2014, mostly stayed betwee
 In conclusion, nickel had the largest changes throughout the year, copper is the most stable, and zinc is fluctuated between the two.
 
 -------------------------------------------------------------------------
+Nowadays, people are living longer in many countries, and some people think this create a lot of problem for government, while other people believe it also has some benefit for society. In my opinion, I think the disadvantages are more than the advantages, but I do not think it is completely bad.
+
+Firstly, ageing population resulted in heavy cost for government, because old people need more medical cares and pension every month. For example, hospitals is always crowded with old patient, and this shows that ageing population bring a lot of burdon to healthcare system. Also, young generation has to work harder to support the elderlies, which make they very tired and stressful. This problem will become more serious in the future if the government does not act.
+
+On the other hand, some people believe elderlies can also help society, espesially by sharing their experience for young people. Although this is also important for society.
+
+Admittedly, opponents may contend that ageing population also boost the economy because elderlies still spending money. However, they overlook that it is not really true, because most elderlies don't have much money to spend after retire.
+
+In conclusion, I believe an ageing population bring more disadvantage than advantage, because government and young people both need to take a lot resonsibility for the old people in society.
