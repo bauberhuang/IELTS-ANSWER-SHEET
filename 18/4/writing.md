@@ -1,20 +1,28 @@
-This graph compares the average monthly change in prices of three metals, copper, nickel and zinc, in 2014.
+The line graph illustrates the average monthly change in the prices 
+of copper, nickel and zinc over the course of 2014.
 
-Overall, nickel have the most flunctuation throughout the year, while copper remains stable, meanwhile zinc falls between the two. In January, nickel experienced the highest change, meanwhile falling drastically after that point.
+Overall, nickel fluctuated far more sharply than the other two metals, 
+whereas copper remained relatively stable throughout the period. 
+Zinc's movements fell between these two extremes.
 
-In January, nickel rose the most, with about 6% compared with the previous month. However, nickel have decreased continuously until June, reaching the lowest point at -2%. In contrast, zinc only rose 2% in January, but rised to 3% in February, this shows the trend for zinc is different than nickel.
+Nickel began the year with the sharpest rise, climbing by around 6% 
+in January. From that peak it fell steadily, dropping to approximately 
+-3% by June, the lowest figure recorded for any metal all year. It then 
+recovered slightly, ending the year at about 1%.
 
-Coppor's persentage stayed the most stable throughout 2014, mostly stayed between -1% and 1%. For example, copper only fell slightly in April and May, without any significant change compared with nickel or zinc. From June to October, all three metals experienced their lowest points. Nickel dropped the most, being the lowest point among all three metals in the whole chart. Zinc also fell during this period, meanwhile copper remain flat. In November and December, all three metals rose again. Nickel and zinc reached around 1% and 2% respectively.
-
-In conclusion, nickel had the largest changes throughout the year, copper is the most stable, and zinc is fluctuated between the two.
+Copper, by contrast, moved within a narrow band of roughly 2% for 
+most of the year, with only marginal declines in April "and" may. Zinc followed a 
+more moderate version of nickel's pattern: it rose to around 3% in 
+February, declined during the middle of the year, and climbed back to 
+approximately 2% by December.
 
 -------------------------------------------------------------------------
-Nowadays, people are living longer in many countries, and some people think this create a lot of problem for government, while other people believe it also has some benefit for society. In my opinion, I think the disadvantages are more than the advantages, but I do not think it is completely bad.
+Nowadays, people are living longer in many countries, and some people think this creates a lot of problems for the government, while other people believe it also has some benefits for the society. In my opinion, I think the disadvantages are more than the advantages, but I do not think it is completely bad.
 
-Firstly, ageing population resulted in heavy cost for government, because old people need more medical cares and pension every month. For example, hospitals is always crowded with old patient, and this shows that ageing population bring a lot of burdon to healthcare system. Also, young generation has to work harder to support the elderlies, which make they very tired and stressful. This problem will become more serious in the future if the government does not act.
+Firstly, ageing population has resulted in heavy cost for the government, because old people need more medical care and pensions every month. For example, hospitals are always crowded with old patients, and this shows that ageing population brings a lot of burdons to the healthcare system. Also, young generation has to work harder to support the elderly, which makes them very tired and stressful. This problem will become more serious in the future if the government does not act.
 
-On the other hand, some people believe elderlies can also help society, espesially by sharing their experience for young people. Although this is also important for society.
+On the other hand, some people believe elderlies can also help society, especially by sharing their experience to young people. This is also important for society.
 
-Admittedly, opponents may contend that ageing population also boost the economy because elderlies still spending money. However, they overlook that it is not really true, because most elderlies don't have much money to spend after retire.
+Admittedly, opponents may contend that ageing population also boosts the economy because elderlies are still spending money. However, they overlook that it is not really true, because most elderlies don't have much money to spend after retirement.
 
-In conclusion, I believe an ageing population bring more disadvantage than advantage, because government and young people both need to take a lot resonsibility for the old people in society.
+In conclusion, I believe an ageing population brings more disadvantages than advantages, because the government and young people both need to take a lot resonsibility for old people in society.
